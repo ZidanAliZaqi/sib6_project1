@@ -3,6 +3,7 @@ from modules.magazine import Magazine
 from modules.cd import Cd
 from modules.dvd import Dvd
 
+
 class Catalog():
     def __init__(self, catalog):
         self.catalog = catalog
